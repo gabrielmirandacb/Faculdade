@@ -1,2 +1,2 @@
-# Faculdade
-Projetos e Exercícios da Faculdade
+# Exercício 1 - Mobile
+Projetos e Exercícios da cadeira de Mobile da Faculdade
