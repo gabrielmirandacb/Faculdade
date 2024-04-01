@@ -2846,7 +2846,6 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #ee0979;
   --bs-btn-border-color: #ee0979;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #ca0867;
@@ -10859,7 +10858,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(0deg, #087990 0%, #0dcaf0 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -10874,7 +10873,6 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
 }
 header.masthead .bg-circle-1 {
   height: 90rem;
