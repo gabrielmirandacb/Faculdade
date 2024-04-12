@@ -2846,6 +2846,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
+  --bs-btn-bg: #ee0979;
   --bs-btn-border-color: #ee0979;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #ca0867;
@@ -10858,7 +10859,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #087990 0%, #0dcaf0 100%);
+  background: linear-gradient(0deg, #087990 0%, #066173 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
